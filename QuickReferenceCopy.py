@@ -18,15 +18,6 @@ def getLines(self):
 
     return lines
 
-
-# class ThetwitchyTest01Command(sublime_plugin.TextCommand):
-#     def run(self, edit):
-#         filename = self.view.file_name()
-
-#         if len(filename) > 0:
-#             sublime.set_clipboard(filename + ':' + getLines(self))
-#             sublime.status_message("Copied path with line")
-
 class QuickReferenceCopyCommand(sublime_plugin.TextCommand):
     def run(self, edit):
         filename = self.view.file_name()
