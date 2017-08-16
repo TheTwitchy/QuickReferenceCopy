@@ -1,0 +1,5 @@
+
+[
+    { "caption": "-", "id": "file" },
+    { "caption": "Copy Reference", "command": "quick_reference_copy" }
+]
