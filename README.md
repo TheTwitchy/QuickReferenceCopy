@@ -12,4 +12,4 @@ Select one or more lines, right-click and choose "Copy Reference" to copy the fi
 ```
 
 ## Installation
-Find the most recent [release package](/releases/latest), and copy it into `<user profile>\Sublime Text 3\Installed Packages`. An installation option through the official package manager is not yet available because `TODO reasonable excuse`.
+Find the most recent [release package](../../releases/latest), and copy it into `<user profile>\Sublime Text 3\Installed Packages`. An installation option through the official package manager is not yet available because `TODO reasonable excuse`.
